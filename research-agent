@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+# Start the research chat. No Python knowledge needed: ./research-agent
+# On macOS it also pops a second Terminal window with the live debug trail (set RESEARCH_NO_LOGS_WINDOW=1 to skip).
+cd "$(dirname "$0")" || exit 1
+ROOT="$(pwd)"
+if [ -z "$RESEARCH_NO_LOGS_WINDOW" ] && [ -t 1 ] && [ "$(uname)" = Darwin ] && [ $# -eq 0 ]; then
+  pgrep -f "research-agent-logs" >/dev/null || osascript - "$ROOT" >/dev/null 2>&1 <<'AS'
+on run argv
+  tell application "Terminal" to do script ("cd " & quoted form of (item 1 of argv) & " && ./research-agent-logs")
+end run
+AS
+fi
+if [ -x .venv/bin/python ]; then exec .venv/bin/python -m research "$@"; else exec python3 -m research "$@"; fi

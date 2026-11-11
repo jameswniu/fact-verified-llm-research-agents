@@ -1,0 +1,77 @@
+# CI gates for the deep research agent. They run with no API key: the unit tests, the figures against their
+# generators, the README numbers against the recorded eval run in evals/results/, a dash lint on tracked
+# prose, a lint that an old project name is gone from tracked files, and a check that both launchers are executable.
+name: gates
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+# The jobs only read the repository, so the workflow token gets read access and nothing else.
+permissions:
+  contents: read
+
+jobs:
+  gates:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Unit tests with no API key
+        run: python -m unittest discover -s tests -t .
+        env:
+          GEMINI_API_KEY: ""
+
+      - name: Figures match their generators
+        run: make figures-check
+
+      - name: README numbers, badges and figures match the recorded run
+        run: python3 tools/check_readme.py
+
+      - name: Both launchers are executable
+        run: |
+          for f in research-agent research-agent-logs; do
+            git ls-files --stage "$f" | grep -q '^100755' || { echo "$f is not 100755"; exit 1; }
+          done
+
+      - name: No em or en dashes in tracked prose
+        run: |
+          # python, not grep -P, so it behaves the same on macOS and on the runner
+          git ls-files -z -- '*.md' | python3 -c '
+          import sys
+          bad = 0
+          for path in sys.stdin.buffer.read().split(b"\0"):
+              if not path:
+                  continue
+              for n, line in enumerate(open(path, encoding="utf-8", errors="replace"), 1):
+                  if chr(0x2014) in line or chr(0x2013) in line:
+                      print(f"{path.decode()}:{n}: {line.rstrip()[:100]}"); bad += 1
+          print("clean" if not bad else f"{bad} dash glyph line(s)")
+          sys.exit(1 if bad else 0)
+          '
+
+      - name: The old project name is gone from tracked files
+        run: |
+          git ls-files -z | python3 -c '
+          import sys
+          needle = "ar" + "ta"
+          bad = 0
+          for path in sys.stdin.buffer.read().split(b"\0"):
+              if not path:
+                  continue
+              data = open(path, "rb").read()
+              if needle.encode() in data.lower() or needle.encode() in path.lower():
+                  print(f"{path.decode()} contains the old name"); bad += 1
+          print("clean" if not bad else f"{bad} file(s)")
+          sys.exit(1 if bad else 0)
+          '

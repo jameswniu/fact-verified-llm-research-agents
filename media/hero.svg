@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 496" width="100%" role="img" shape-rendering="crispEdges" aria-label="Deep research agent. Recorded from one live run on 2026-10-09: 24 of 24 runs completed, 97 of 99 citations valid, median 58 seconds to a report, estimated $0.018 per run.">
+<rect width="1200" height="496" fill="#0e1117"/>
+<rect x="1" y="1" width="1198" height="494" fill="none" stroke="#2c333d" stroke-width="2"/>
+<rect x="0" y="0" width="8" height="496" rx="0" fill="#79a890"/>
+<text x="48" y="54" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e" letter-spacing="2">DEEP RESEARCH AGENT</text>
+<text x="48" y="112" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="44" fill="#e6e9ee" font-weight="700">Every claim points at a source</text>
+<text x="48" y="160" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="25" fill="#8b949e">Plans, searches, verifies, then writes a cited PDF and a trace PDF.</text>
+<rect x="48" y="196" width="352" height="172" rx="0" fill="#171c24" stroke="#2c333d" stroke-width="2"/>
+<rect x="48" y="196" width="352" height="4" rx="0" fill="#4f9a6f"/>
+<text x="70" y="268" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="52" fill="#e6e9ee" font-weight="700">24 / 24</text>
+<text x="70" y="312" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#8b949e">runs done, 8 cases</text>
+<rect x="424" y="196" width="352" height="172" rx="0" fill="#171c24" stroke="#2c333d" stroke-width="2"/>
+<rect x="424" y="196" width="352" height="4" rx="0" fill="#4f9a6f"/>
+<text x="446" y="268" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="52" fill="#e6e9ee" font-weight="700">97 / 99</text>
+<text x="446" y="312" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#8b949e">citations valid, 98%</text>
+<rect x="800" y="196" width="352" height="172" rx="0" fill="#171c24" stroke="#2c333d" stroke-width="2"/>
+<rect x="800" y="196" width="352" height="4" rx="0" fill="#79a890"/>
+<text x="822" y="268" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="52" fill="#e6e9ee" font-weight="700">58 s</text>
+<text x="822" y="312" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#8b949e">median to report</text>
+<text x="822" y="346" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">95th percentile 68 s</text>
+<text x="48" y="404" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#8b949e">Recorded from one live run on 2026-10-09, not rerun.</text>
+<text x="48" y="434" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#8b949e">Cost is about $0.018 per run, estimated at list prices.</text>
+<text x="48" y="470" font-family="SF Mono, Menlo, Consolas, monospace" font-size="23" fill="#8b949e">python3 tools/facts.py</text>
+</svg>

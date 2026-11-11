@@ -1,0 +1,3035 @@
+{
+  "aggregate": [
+    {
+      "case": "stagflation_1970s",
+      "title": "1970s monetary failure",
+      "runs": 3,
+      "runs_ok": 3,
+      "coverage": 0.7619047619047619,
+      "citation_validity": 1.0,
+      "uncited_or_invalid": 0,
+      "unverifiable": 0,
+      "supported_without_valid_evidence": 0,
+      "conflicts": 1.3333333333333333,
+      "conflict_hit": 1.0,
+      "abstain_ok": null,
+      "quality": 0.9047619047619048,
+      "seconds_mean": 60.1,
+      "seconds_max": 64.3,
+      "over_budget_max_s": 0.0,
+      "cost_usd": 0.017533333333333335,
+      "tokens": 21938,
+      "invariant_errors": 0,
+      "errors": [],
+      "rules": {
+        "tier": [
+          62,
+          62
+        ],
+        "independence": [
+          59,
+          62
+        ],
+        "quote_on_page": [
+          2,
+          2
+        ],
+        "quote_not_claim": [
+          2,
+          2
+        ]
+      },
+      "cit_valid": 2,
+      "cit_checked": 2,
+      "unfetchable": 0,
+      "link_only": 143,
+      "coverage_spread": 0.4285714285714286,
+      "point_agreement": 0.5952380952380952,
+      "source_overlap": 0.24839506172839507,
+      "number_agreement": 0.381000481000481
+    },
+    {
+      "case": "svb_collapse_2023",
+      "title": "SVB collapse",
+      "runs": 3,
+      "runs_ok": 3,
+      "coverage": 0.888888888888889,
+      "citation_validity": 1.0,
+      "uncited_or_invalid": 0,
+      "unverifiable": 0,
+      "supported_without_valid_evidence": 0,
+      "conflicts": 1,
+      "conflict_hit": 0.6666666666666666,
+      "abstain_ok": null,
+      "quality": 0.8518518518518519,
+      "seconds_mean": 50.4,
+      "seconds_max": 58.3,
+      "over_budget_max_s": 0.0,
+      "cost_usd": 0.017499999999999998,
+      "tokens": 21887.666666666668,
+      "invariant_errors": 0,
+      "errors": [],
+      "rules": {
+        "tier": [
+          47,
+          47
+        ],
+        "independence": [
+          47,
+          47
+        ],
+        "quote_on_page": [
+          8,
+          8
+        ],
+        "quote_not_claim": [
+          8,
+          8
+        ]
+      },
+      "cit_valid": 8,
+      "cit_checked": 8,
+      "unfetchable": 0,
+      "link_only": 72,
+      "coverage_spread": 0.16666666666666663,
+      "point_agreement": 0.888888888888889,
+      "source_overlap": 0.21766381766381768,
+      "number_agreement": 0.2304093567251462
+    },
+    {
+      "case": "yield_curve_recessions",
+      "title": "Yield curve inversion",
+      "runs": 3,
+      "runs_ok": 3,
+      "coverage": 0.9333333333333333,
+      "citation_validity": 1.0,
+      "uncited_or_invalid": 0,
+      "unverifiable": 1,
+      "supported_without_valid_evidence": 0,
+      "conflicts": 0,
+      "conflict_hit": 0.0,
+      "abstain_ok": null,
+      "quality": 0.6444444444444444,
+      "seconds_mean": 65.26666666666667,
+      "seconds_max": 90.1,
+      "over_budget_max_s": 0.0,
+      "cost_usd": 0.019566666666666666,
+      "tokens": 24490,
+      "invariant_errors": 0,
+      "errors": [],
+      "rules": {
+        "tier": [
+          40,
+          40
+        ],
+        "independence": [
+          39,
+          40
+        ],
+        "quote_on_page": [
+          20,
+          22
+        ],
+        "quote_not_claim": [
+          22,
+          22
+        ]
+      },
+      "cit_valid": 21,
+      "cit_checked": 21,
+      "unfetchable": 1,
+      "link_only": 40,
+      "coverage_spread": 0.19999999999999996,
+      "point_agreement": 0.8666666666666667,
+      "source_overlap": 0.2357087357087357,
+      "number_agreement": 0.21239842383218063
+    },
+    {
+      "case": "gold_drivers_since_2022",
+      "title": "Gold price drivers",
+      "runs": 3,
+      "runs_ok": 3,
+      "coverage": 0.7222222222222222,
+      "citation_validity": 1.0,
+      "uncited_or_invalid": 0,
+      "unverifiable": 0,
+      "supported_without_valid_evidence": 0,
+      "conflicts": 0,
+      "conflict_hit": 0.0,
+      "abstain_ok": null,
+      "quality": 0.5092592592592592,
+      "seconds_mean": 61.43333333333334,
+      "seconds_max": 67.9,
+      "over_budget_max_s": 0.0,
+      "cost_usd": 0.019133333333333332,
+      "tokens": 23914.333333333332,
+      "invariant_errors": 0,
+      "errors": [],
+      "rules": {
+        "tier": [
+          26,
+          26
+        ],
+        "independence": [
+          26,
+          26
+        ],
+        "quote_on_page": [
+          7,
+          7
+        ],
+        "quote_not_claim": [
+          7,
+          7
+        ]
+      },
+      "cit_valid": 7,
+      "cit_checked": 7,
+      "unfetchable": 0,
+      "link_only": 48,
+      "coverage_spread": 0.16666666666666674,
+      "point_agreement": 0.6333333333333333,
+      "source_overlap": 0.09929971988795519,
+      "number_agreement": 0.20006184291898577
+    },
+    {
+      "case": "inflation_peaks_quant",
+      "title": "1980 vs 2022 inflation peaks",
+      "runs": 3,
+      "runs_ok": 3,
+      "coverage": 0.8666666666666667,
+      "citation_validity": 1.0,
+      "uncited_or_invalid": 0,
+      "unverifiable": 0,
+      "supported_without_valid_evidence": 0,
+      "conflicts": 0,
+      "conflict_hit": null,
+      "abstain_ok": null,
+      "quality": 0.9333333333333333,
+      "seconds_mean": 57.0,
+      "seconds_max": 60.8,
+      "over_budget_max_s": 0.0,
+      "cost_usd": 0.014433333333333333,
+      "tokens": 18039.333333333332,
+      "invariant_errors": 0,
+      "errors": [],
+      "rules": {
+        "tier": [
+          25,
+          25
+        ],
+        "independence": [
+          25,
+          25
+        ],
+        "quote_on_page": [
+          5,
+          5
+        ],
+        "quote_not_claim": [
+          5,
+          5
+        ]
+      },
+      "cit_valid": 5,
+      "cit_checked": 5,
+      "unfetchable": 0,
+      "link_only": 44,
+      "coverage_spread": 0.4,
+      "point_agreement": 0.7333333333333333,
+      "source_overlap": 0.2579185520361991,
+      "number_agreement": 0.3516081871345029
+    },
+    {
+      "case": "false_premise_fed",
+      "title": "False premise",
+      "runs": 3,
+      "runs_ok": 3,
+      "coverage": 0.6666666666666666,
+      "citation_validity": 1.0,
+      "uncited_or_invalid": 0,
+      "unverifiable": 0,
+      "supported_without_valid_evidence": 0,
+      "conflicts": 0,
+      "conflict_hit": null,
+      "abstain_ok": null,
+      "quality": 0.8333333333333333,
+      "seconds_mean": 59.53333333333333,
+      "seconds_max": 63.1,
+      "over_budget_max_s": 0.0,
+      "cost_usd": 0.017433333333333332,
+      "tokens": 21777.666666666668,
+      "invariant_errors": 0,
+      "errors": [],
+      "rules": {
+        "tier": [
+          47,
+          47
+        ],
+        "independence": [
+          47,
+          47
+        ],
+        "quote_on_page": [
+          21,
+          22
+        ],
+        "quote_not_claim": [
+          22,
+          22
+        ]
+      },
+      "cit_valid": 22,
+      "cit_checked": 22,
+      "unfetchable": 0,
+      "link_only": 58,
+      "coverage_spread": 0.0,
+      "point_agreement": 1.0,
+      "source_overlap": 0.07284605560467629,
+      "number_agreement": 0.27016447604682897
+    },
+    {
+      "case": "pdf_helios_memo",
+      "title": "PDF with a planted error",
+      "runs": 3,
+      "runs_ok": 3,
+      "coverage": 0.6666666666666666,
+      "citation_validity": 1.0,
+      "uncited_or_invalid": 0,
+      "unverifiable": 0,
+      "supported_without_valid_evidence": 0,
+      "conflicts": 0,
+      "conflict_hit": 0.0,
+      "abstain_ok": null,
+      "quality": 0.4814814814814814,
+      "seconds_mean": 62.300000000000004,
+      "seconds_max": 68.4,
+      "over_budget_max_s": 0.0,
+      "cost_usd": 0.018833333333333334,
+      "tokens": 23566.666666666668,
+      "invariant_errors": 0,
+      "errors": [],
+      "rules": {
+        "tier": [
+          53,
+          53
+        ],
+        "independence": [
+          28,
+          53
+        ],
+        "quote_on_page": [
+          17,
+          17
+        ],
+        "quote_not_claim": [
+          17,
+          17
+        ]
+      },
+      "cit_valid": 17,
+      "cit_checked": 17,
+      "unfetchable": 0,
+      "link_only": 55,
+      "coverage_spread": 0.0,
+      "point_agreement": 1.0,
+      "source_overlap": 0.1984126984126984,
+      "number_agreement": 0.3314814814814815
+    },
+    {
+      "case": "unanswerable_private",
+      "title": "Unanswerable private data",
+      "runs": 3,
+      "runs_ok": 3,
+      "coverage": 0.5,
+      "citation_validity": 0.8611111111111112,
+      "uncited_or_invalid": 2,
+      "unverifiable": 0,
+      "supported_without_valid_evidence": 0,
+      "conflicts": 0,
+      "conflict_hit": null,
+      "abstain_ok": 1.0,
+      "quality": 0.7870370370370371,
+      "seconds_mean": 51.03333333333333,
+      "seconds_max": 56.7,
+      "over_budget_max_s": 0.0,
+      "cost_usd": 0.015766666666666665,
+      "tokens": 19723.666666666668,
+      "invariant_errors": 0,
+      "errors": [],
+      "rules": {
+        "tier": [
+          8,
+          8
+        ],
+        "independence": [
+          8,
+          8
+        ],
+        "quote_on_page": [
+          15,
+          17
+        ],
+        "quote_not_claim": [
+          17,
+          17
+        ]
+      },
+      "cit_valid": 15,
+      "cit_checked": 17,
+      "unfetchable": 0,
+      "link_only": 3,
+      "coverage_spread": 0.0,
+      "point_agreement": 1.0,
+      "source_overlap": 0.20505050505050504,
+      "number_agreement": 0.12261072261072262
+    }
+  ],
+  "runs": [
+    {
+      "coverage": 0.8333333333333334,
+      "covered": [
+        "duration_mismatch",
+        "uninsured_deposits",
+        "run_speed",
+        "supervision_failure",
+        "risk_management"
+      ],
+      "missed": [
+        "regulatory_rollback"
+      ],
+      "citation_validity": 1.0,
+      "citations": {
+        "valid": 3,
+        "invalid": 0,
+        "unverifiable": 0,
+        "link_only": 23,
+        "uncited_claims": 0
+      },
+      "bad_citations": [],
+      "supported_without_valid_evidence": 0,
+      "claims": {
+        "supported": 14,
+        "contested": 3,
+        "unsupported": 20
+      },
+      "conflicts": 1,
+      "conflict_hit": 1.0,
+      "abstain_ok": null,
+      "quality": 0.9444444444444445,
+      "seconds": 44.3,
+      "over_budget_s": 0.0,
+      "tokens": 20798,
+      "cost_usd": 0.0166,
+      "sources": 13,
+      "domains": [
+        "allianz-trade.com",
+        "bpi.com",
+        "centerforfinancialstability.org",
+        "cliffordchance.com",
+        "ecmi.eu",
+        "europa.eu",
+        "fdic.gov",
+        "federalreserve.gov",
+        "icci.be",
+        "mit.edu",
+        "researchgate.net",
+        "wikipedia.org"
+      ],
+      "numbers": [
+        "1",
+        "10",
+        "100",
+        "12",
+        "15.1",
+        "16",
+        "16.3",
+        "17.5",
+        "173",
+        "2.5",
+        "2022",
+        "2023",
+        "25",
+        "30",
+        "31",
+        "4",
+        "41",
+        "42",
+        "43",
+        "73",
+        "76.2",
+        "78",
+        "85",
+        "9",
+        "90",
+        "91.3",
+        "94"
+      ],
+      "rules": {
+        "tier": [
+          14,
+          14
+        ],
+        "independence": [
+          14,
+          14
+        ],
+        "quote_on_page": [
+          3,
+          3
+        ],
+        "quote_not_claim": [
+          3,
+          3
+        ],
+        "unfetchable": 0,
+        "link_only": 23,
+        "bad_quotes": []
+      },
+      "invariant_errors": [],
+      "invariant_warnings": [],
+      "error": null,
+      "case": "svb_collapse_2023",
+      "repeat": 2,
+      "pdf": {
+        "report_exists": true,
+        "report_pages": 4,
+        "report_s": 44.3,
+        "trace_exists": true,
+        "trace_s": 44.4,
+        "pdf_error": ""
+      },
+      "run_id": "20261009-145107-f633"
+    },
+    {
+      "coverage": 1.0,
+      "covered": [
+        "duration_mismatch",
+        "uninsured_deposits",
+        "run_speed",
+        "regulatory_rollback",
+        "supervision_failure",
+        "risk_management"
+      ],
+      "missed": [],
+      "citation_validity": 1.0,
+      "citations": {
+        "valid": 2,
+        "invalid": 0,
+        "unverifiable": 0,
+        "link_only": 34,
+        "uncited_claims": 0
+      },
+      "bad_citations": [],
+      "supported_without_valid_evidence": 0,
+      "claims": {
+        "supported": 20,
+        "contested": 2,
+        "unsupported": 17
+      },
+      "conflicts": 2,
+      "conflict_hit": 1.0,
+      "abstain_ok": null,
+      "quality": 1.0,
+      "seconds": 48.6,
+      "over_budget_s": 0.0,
+      "tokens": 21761,
+      "cost_usd": 0.0174,
+      "sources": 13,
+      "domains": [
+        "Quartz",
+        "bpi.com",
+        "cliffordchance.com",
+        "emerald.com",
+        "federalreserve.gov",
+        "gao.gov",
+        "institutodeanalistas.com",
+        "mit.edu",
+        "thomsonreuters.com",
+        "yale.edu"
+      ],
+      "numbers": [
+        "1",
+        "1.7",
+        "1.8",
+        "10",
+        "100",
+        "142",
+        "16.004",
+        "166",
+        "2021",
+        "2022",
+        "2023",
+        "21",
+        "212",
+        "25",
+        "250",
+        "30",
+        "31",
+        "36",
+        "42",
+        "50",
+        "8",
+        "85",
+        "9",
+        "91.3",
+        "94"
+      ],
+      "rules": {
+        "tier": [
+          20,
+          20
+        ],
+        "independence": [
+          20,
+          20
+        ],
+        "quote_on_page": [
+          2,
+          2
+        ],
+        "quote_not_claim": [
+          2,
+          2
+        ],
+        "unfetchable": 0,
+        "link_only": 34,
+        "bad_quotes": []
+      },
+      "invariant_errors": [],
+      "invariant_warnings": [],
+      "error": null,
+      "case": "svb_collapse_2023",
+      "repeat": 0,
+      "pdf": {
+        "report_exists": true,
+        "report_pages": 4,
+        "report_s": 48.6,
+        "trace_exists": true,
+        "trace_s": 48.7,
+        "pdf_error": ""
+      },
+      "run_id": "20261009-145107-7530"
+    },
+    {
+      "coverage": 0.8,
+      "covered": [
+        "record",
+        "lead_time",
+        "measures",
+        "post_2022"
+      ],
+      "missed": [
+        "distortions"
+      ],
+      "citation_validity": 1.0,
+      "citations": {
+        "valid": 5,
+        "invalid": 0,
+        "unverifiable": 0,
+        "link_only": 13,
+        "uncited_claims": 0
+      },
+      "bad_citations": [],
+      "supported_without_valid_evidence": 0,
+      "claims": {
+        "supported": 12,
+        "contested": 1,
+        "unsupported": 28
+      },
+      "conflicts": 0,
+      "conflict_hit": 0.0,
+      "abstain_ok": null,
+      "quality": 0.6,
+      "seconds": 51.6,
+      "over_budget_s": 0.0,
+      "tokens": 22926,
+      "cost_usd": 0.0183,
+      "sources": 7,
+      "domains": [
+        "Eco3min",
+        "Federal Reserve Bank of Cleveland",
+        "chicagofed.org",
+        "federalreserve.gov",
+        "nber.org",
+        "newyorkfed.org",
+        "substack.com"
+      ],
+      "numbers": [
+        ".30",
+        ".40",
+        "12",
+        "18",
+        "1970",
+        "1997",
+        "2",
+        "2003",
+        "2009",
+        "2010",
+        "3",
+        "4",
+        "6"
+      ],
+      "rules": {
+        "tier": [
+          12,
+          12
+        ],
+        "independence": [
+          12,
+          12
+        ],
+        "quote_on_page": [
+          5,
+          5
+        ],
+        "quote_not_claim": [
+          5,
+          5
+        ],
+        "unfetchable": 0,
+        "link_only": 13,
+        "bad_quotes": []
+      },
+      "invariant_errors": [],
+      "invariant_warnings": [],
+      "error": null,
+      "case": "yield_curve_recessions",
+      "repeat": 0,
+      "pdf": {
+        "report_exists": true,
+        "report_pages": 4,
+        "report_s": 51.6,
+        "trace_exists": true,
+        "trace_s": 51.7,
+        "pdf_error": ""
+      },
+      "run_id": "20261009-145107-0cd4"
+    },
+    {
+      "coverage": 0.7142857142857143,
+      "covered": [
+        "accommodative_fed",
+        "expectations",
+        "volcker",
+        "fiscal_alternative",
+        "price_controls"
+      ],
+      "missed": [
+        "oil_shocks",
+        "bretton_woods"
+      ],
+      "citation_validity": null,
+      "citations": {
+        "valid": 0,
+        "invalid": 0,
+        "unverifiable": 0,
+        "link_only": 50,
+        "uncited_claims": 0
+      },
+      "bad_citations": [],
+      "supported_without_valid_evidence": 0,
+      "claims": {
+        "supported": 22,
+        "contested": 5,
+        "unsupported": 9
+      },
+      "conflicts": 2,
+      "conflict_hit": 1.0,
+      "abstain_ok": null,
+      "quality": 0.8571428571428572,
+      "seconds": 54.6,
+      "over_budget_s": 0.0,
+      "tokens": 20601,
+      "cost_usd": 0.0165,
+      "sources": 27,
+      "domains": [
+        "aeaweb.org",
+        "cmegroup.com",
+        "cooperative-individualism.org",
+        "duke.edu",
+        "evrenbolgun.com",
+        "federalreserve.gov",
+        "frbsf.org",
+        "mises.org",
+        "nationalbanken.dk",
+        "nber.org",
+        "ox.ac.uk",
+        "richmondfed.org",
+        "schooleddotblog.com",
+        "stlouisfed.org",
+        "uchicago.edu",
+        "umn.edu"
+      ],
+      "numbers": [
+        "1.5",
+        "12",
+        "12.3",
+        "14",
+        "14.8",
+        "1970",
+        "1973",
+        "1974",
+        "1975",
+        "1976",
+        "1978",
+        "1979",
+        "1980",
+        "1982",
+        "1985",
+        "2",
+        "2.5",
+        "3",
+        "3.5",
+        "4",
+        "4.0",
+        "4.2",
+        "6",
+        "7",
+        "7.8",
+        "8"
+      ],
+      "rules": {
+        "tier": [
+          22,
+          22
+        ],
+        "independence": [
+          21,
+          22
+        ],
+        "quote_on_page": [
+          0,
+          0
+        ],
+        "quote_not_claim": [
+          0,
+          0
+        ],
+        "unfetchable": 0,
+        "link_only": 50,
+        "bad_quotes": []
+      },
+      "invariant_errors": [],
+      "invariant_warnings": [],
+      "error": null,
+      "case": "stagflation_1970s",
+      "repeat": 1,
+      "pdf": {
+        "report_exists": true,
+        "report_pages": 5,
+        "report_s": 54.6,
+        "trace_exists": true,
+        "trace_s": 54.8,
+        "pdf_error": ""
+      },
+      "run_id": "20261009-145107-47df"
+    },
+    {
+      "coverage": 0.8333333333333334,
+      "covered": [
+        "duration_mismatch",
+        "uninsured_deposits",
+        "run_speed",
+        "supervision_failure",
+        "risk_management"
+      ],
+      "missed": [
+        "regulatory_rollback"
+      ],
+      "citation_validity": 1.0,
+      "citations": {
+        "valid": 3,
+        "invalid": 0,
+        "unverifiable": 0,
+        "link_only": 15,
+        "uncited_claims": 0
+      },
+      "bad_citations": [],
+      "supported_without_valid_evidence": 0,
+      "claims": {
+        "supported": 13,
+        "contested": 0,
+        "unsupported": 29
+      },
+      "conflicts": 0,
+      "conflict_hit": 0.0,
+      "abstain_ok": null,
+      "quality": 0.6111111111111112,
+      "seconds": 58.3,
+      "over_budget_s": 0.0,
+      "tokens": 23104,
+      "cost_usd": 0.0185,
+      "sources": 8,
+      "domains": [
+        "Bank for International Settlements",
+        "bankingdive.com",
+        "bpi.com",
+        "fdic.gov",
+        "federalreserve.gov",
+        "yale.edu"
+      ],
+      "numbers": [
+        "1.911",
+        "10",
+        "100",
+        "142",
+        "175",
+        "20",
+        "2022",
+        "2023",
+        "26.069",
+        "28",
+        "28.600",
+        "31",
+        "36",
+        "40",
+        "73",
+        "81",
+        "99"
+      ],
+      "rules": {
+        "tier": [
+          13,
+          13
+        ],
+        "independence": [
+          13,
+          13
+        ],
+        "quote_on_page": [
+          3,
+          3
+        ],
+        "quote_not_claim": [
+          3,
+          3
+        ],
+        "unfetchable": 0,
+        "link_only": 15,
+        "bad_quotes": []
+      },
+      "invariant_errors": [],
+      "invariant_warnings": [],
+      "error": null,
+      "case": "svb_collapse_2023",
+      "repeat": 1,
+      "pdf": {
+        "report_exists": true,
+        "report_pages": 4,
+        "report_s": 58.3,
+        "trace_exists": true,
+        "trace_s": 58.4,
+        "pdf_error": ""
+      },
+      "run_id": "20261009-145107-2abd"
+    },
+    {
+      "coverage": 1.0,
+      "covered": [
+        "accommodative_fed",
+        "oil_shocks",
+        "bretton_woods",
+        "expectations",
+        "volcker",
+        "fiscal_alternative",
+        "price_controls"
+      ],
+      "missed": [],
+      "citation_validity": null,
+      "citations": {
+        "valid": 0,
+        "invalid": 0,
+        "unverifiable": 0,
+        "link_only": 55,
+        "uncited_claims": 0
+      },
+      "bad_citations": [],
+      "supported_without_valid_evidence": 0,
+      "claims": {
+        "supported": 24,
+        "contested": 4,
+        "unsupported": 14
+      },
+      "conflicts": 1,
+      "conflict_hit": 1.0,
+      "abstain_ok": null,
+      "quality": 1.0,
+      "seconds": 61.4,
+      "over_budget_s": 0.0,
+      "tokens": 22932,
+      "cost_usd": 0.0183,
+      "sources": 28,
+      "domains": [
+        "bls.gov",
+        "bostonfed.org",
+        "bundesbank.de",
+        "cairn.info",
+        "capitolhistory.org",
+        "cbo.gov",
+        "europa.eu",
+        "federalreserve.gov",
+        "frbsf.org",
+        "imf.org",
+        "kansascityfed.org",
+        "mises.org",
+        "nber.org",
+        "philadelphiafed.org",
+        "princeton.edu",
+        "stlouisfed.org"
+      ],
+      "numbers": [
+        ".5",
+        "1",
+        "1.5",
+        "10",
+        "10.0",
+        "12",
+        "12.3",
+        "13.56",
+        "14.8",
+        "1970",
+        "1971",
+        "1972",
+        "1973",
+        "1974",
+        "1975",
+        "1976",
+        "1977",
+        "1978",
+        "1979",
+        "1980",
+        "2",
+        "2.0",
+        "20.3",
+        "22.8",
+        "3",
+        "3.5",
+        "4",
+        "4.0",
+        "4.5",
+        "4.8",
+        "5",
+        "5.5",
+        "50",
+        "6",
+        "7.1",
+        "8",
+        "8.73",
+        "9.0"
+      ],
+      "rules": {
+        "tier": [
+          24,
+          24
+        ],
+        "independence": [
+          24,
+          24
+        ],
+        "quote_on_page": [
+          0,
+          0
+        ],
+        "quote_not_claim": [
+          0,
+          0
+        ],
+        "unfetchable": 0,
+        "link_only": 55,
+        "bad_quotes": []
+      },
+      "invariant_errors": [],
+      "invariant_warnings": [],
+      "error": null,
+      "case": "stagflation_1970s",
+      "repeat": 0,
+      "pdf": {
+        "report_exists": true,
+        "report_pages": 5,
+        "report_s": 61.4,
+        "trace_exists": true,
+        "trace_s": 61.5,
+        "pdf_error": ""
+      },
+      "run_id": "20261009-145107-2cbb"
+    },
+    {
+      "coverage": 0.5714285714285714,
+      "covered": [
+        "accommodative_fed",
+        "oil_shocks",
+        "expectations",
+        "fiscal_alternative"
+      ],
+      "missed": [
+        "bretton_woods",
+        "volcker",
+        "price_controls"
+      ],
+      "citation_validity": 1.0,
+      "citations": {
+        "valid": 2,
+        "invalid": 0,
+        "unverifiable": 0,
+        "link_only": 38,
+        "uncited_claims": 0
+      },
+      "bad_citations": [],
+      "supported_without_valid_evidence": 0,
+      "claims": {
+        "supported": 16,
+        "contested": 6,
+        "unsupported": 22
+      },
+      "conflicts": 1,
+      "conflict_hit": 1.0,
+      "abstain_ok": null,
+      "quality": 0.8571428571428571,
+      "seconds": 64.3,
+      "over_budget_s": 0.0,
+      "tokens": 22281,
+      "cost_usd": 0.0178,
+      "sources": 24,
+      "domains": [
+        "IMF eLibrary",
+        "Stray Reflections - The Anguish of Central Banking",
+        "berkeley.edu",
+        "bundesbank.de",
+        "federalreserve.gov",
+        "hoover.org",
+        "imf.org",
+        "kansascityfed.org",
+        "mises.org",
+        "nber.org",
+        "rbnz.govt.nz",
+        "richmondfed.org",
+        "schooleddotblog.com",
+        "stlouisfed.org",
+        "theopenscholar.com",
+        "uchicago.edu"
+      ],
+      "numbers": [
+        ".2",
+        ".5",
+        "1",
+        "1.0",
+        "1.5",
+        "12",
+        "1970",
+        "1971",
+        "1972",
+        "1973",
+        "1974",
+        "1978",
+        "2",
+        "3",
+        "4",
+        "4.0",
+        "6.0",
+        "7",
+        "8"
+      ],
+      "rules": {
+        "tier": [
+          16,
+          16
+        ],
+        "independence": [
+          14,
+          16
+        ],
+        "quote_on_page": [
+          2,
+          2
+        ],
+        "quote_not_claim": [
+          2,
+          2
+        ],
+        "unfetchable": 0,
+        "link_only": 38,
+        "bad_quotes": []
+      },
+      "invariant_errors": [],
+      "invariant_warnings": [],
+      "error": null,
+      "case": "stagflation_1970s",
+      "repeat": 2,
+      "pdf": {
+        "report_exists": true,
+        "report_pages": 5,
+        "report_s": 64.3,
+        "trace_exists": true,
+        "trace_s": 64.5,
+        "pdf_error": ""
+      },
+      "run_id": "20261009-145107-ccd4"
+    },
+    {
+      "coverage": 1.0,
+      "covered": [
+        "record",
+        "lead_time",
+        "measures",
+        "post_2022",
+        "distortions"
+      ],
+      "missed": [],
+      "citation_validity": 1.0,
+      "citations": {
+        "valid": 8,
+        "invalid": 0,
+        "unverifiable": 1,
+        "link_only": 17,
+        "uncited_claims": 0
+      },
+      "bad_citations": [],
+      "supported_without_valid_evidence": 0,
+      "claims": {
+        "supported": 17,
+        "contested": 0,
+        "unsupported": 26
+      },
+      "conflicts": 0,
+      "conflict_hit": 0.0,
+      "abstain_ok": null,
+      "quality": 0.6666666666666666,
+      "seconds": 90.1,
+      "over_budget_s": 0.0,
+      "tokens": 25119,
+      "cost_usd": 0.0201,
+      "sources": 18,
+      "domains": [
+        "AssetWhisper",
+        "By WoozKa",
+        "advisorperspectives.com",
+        "bard.edu",
+        "duke.edu",
+        "federalreserve.gov",
+        "federalreservehistory.org",
+        "frbsf.org",
+        "idcfp.com",
+        "medium.com",
+        "nber.org",
+        "paecon.net",
+        "seekingalpha.com",
+        "stanford.edu",
+        "stlouisfed.org",
+        "usbank.com"
+      ],
+      "numbers": [
+        "10",
+        "108",
+        "13",
+        "17",
+        "1965",
+        "1966",
+        "1970",
+        "1972",
+        "1998",
+        "2",
+        "2018",
+        "2019",
+        "2022",
+        "2023",
+        "2024",
+        "23",
+        "25",
+        "26",
+        "29",
+        "3",
+        "3.6",
+        "4.5",
+        "4.75",
+        "5",
+        "5.50",
+        "75",
+        "783",
+        "8"
+      ],
+      "rules": {
+        "tier": [
+          17,
+          17
+        ],
+        "independence": [
+          17,
+          17
+        ],
+        "quote_on_page": [
+          7,
+          9
+        ],
+        "quote_not_claim": [
+          9,
+          9
+        ],
+        "unfetchable": 1,
+        "link_only": 17,
+        "bad_quotes": [
+          {
+            "claim": "c36",
+            "url": "https://www.idcfp.com/blog/2023-01-09/economist-campbell-harvey-says-his-indicator-that-pr",
+            "why": "quote not on the page"
+          },
+          {
+            "claim": "c36",
+            "url": "https://www.advisorperspectives.com/articles/2023/01/05/economist-says-his-indicator-that-",
+            "why": "page not readable"
+          }
+        ]
+      },
+      "invariant_errors": [],
+      "invariant_warnings": [],
+      "error": null,
+      "case": "yield_curve_recessions",
+      "repeat": 1,
+      "pdf": {
+        "report_exists": true,
+        "report_pages": 4,
+        "report_s": 90.1,
+        "trace_exists": true,
+        "trace_s": 90.2,
+        "pdf_error": ""
+      },
+      "run_id": "20261009-145107-c21b"
+    },
+    {
+      "coverage": 1.0,
+      "covered": [
+        "record",
+        "lead_time",
+        "measures",
+        "post_2022",
+        "distortions"
+      ],
+      "missed": [],
+      "citation_validity": 1.0,
+      "citations": {
+        "valid": 8,
+        "invalid": 0,
+        "unverifiable": 0,
+        "link_only": 10,
+        "uncited_claims": 0
+      },
+      "bad_citations": [],
+      "supported_without_valid_evidence": 0,
+      "claims": {
+        "supported": 11,
+        "contested": 1,
+        "unsupported": 30
+      },
+      "conflicts": 0,
+      "conflict_hit": 0.0,
+      "abstain_ok": null,
+      "quality": 0.6666666666666666,
+      "seconds": 54.1,
+      "over_budget_s": 0.0,
+      "tokens": 25425,
+      "cost_usd": 0.0203,
+      "sources": 12,
+      "domains": [
+        "Eco3min",
+        "Federal Reserve Bank of Cleveland",
+        "dreyfus.com",
+        "federalreserve.gov",
+        "federalreservehistory.org",
+        "nber.org",
+        "newyorkfed.org",
+        "stanford.edu",
+        "stlouisfed.org",
+        "ucp.pt",
+        "yieldcurve.pro"
+      ],
+      "numbers": [
+        ".04",
+        ".06",
+        ".10",
+        ".30",
+        ".40",
+        "10",
+        "100",
+        "17",
+        "18",
+        "1966",
+        "1998",
+        "2",
+        "2022",
+        "2024",
+        "23",
+        "3",
+        "3.6",
+        "4",
+        "4.75",
+        "40",
+        "5.50",
+        "75"
+      ],
+      "rules": {
+        "tier": [
+          11,
+          11
+        ],
+        "independence": [
+          10,
+          11
+        ],
+        "quote_on_page": [
+          8,
+          8
+        ],
+        "quote_not_claim": [
+          8,
+          8
+        ],
+        "unfetchable": 0,
+        "link_only": 10,
+        "bad_quotes": []
+      },
+      "invariant_errors": [],
+      "invariant_warnings": [],
+      "error": null,
+      "case": "yield_curve_recessions",
+      "repeat": 2,
+      "pdf": {
+        "report_exists": true,
+        "report_pages": 4,
+        "report_s": 54.1,
+        "trace_exists": true,
+        "trace_s": 54.2,
+        "pdf_error": ""
+      },
+      "run_id": "20261009-145152-d868"
+    },
+    {
+      "coverage": 0.6666666666666666,
+      "covered": [
+        "real_yield_decoupling",
+        "central_bank_buying",
+        "dollar",
+        "price_level"
+      ],
+      "missed": [
+        "russia_sanctions",
+        "etf_flows"
+      ],
+      "citation_validity": 1.0,
+      "citations": {
+        "valid": 5,
+        "invalid": 0,
+        "unverifiable": 0,
+        "link_only": 25,
+        "uncited_claims": 0
+      },
+      "bad_citations": [],
+      "supported_without_valid_evidence": 0,
+      "claims": {
+        "supported": 11,
+        "contested": 0,
+        "unsupported": 35
+      },
+      "conflicts": 0,
+      "conflict_hit": 0.0,
+      "abstain_ok": null,
+      "quality": 0.5555555555555555,
+      "seconds": 57.8,
+      "over_budget_s": 0.0,
+      "tokens": 26009,
+      "cost_usd": 0.0208,
+      "sources": 14,
+      "domains": [
+        "GoldSilver",
+        "World Gold Council",
+        "alphapicks.co.uk",
+        "amazonaws.com",
+        "amundi.com",
+        "chicagofed.org",
+        "gainesvillecoins.com",
+        "icbc.com.cn",
+        "moomoo.com",
+        "seekingalpha.com",
+        "thestreet.com",
+        "utah.gov",
+        "visualcapitalist.com"
+      ],
+      "numbers": [
+        "1.0",
+        "1.7",
+        "10",
+        "100",
+        "1000",
+        "1037",
+        "1037.0",
+        "1045",
+        "1050.8",
+        "1080",
+        "1082.0",
+        "1136.0",
+        "1300",
+        "17",
+        "18",
+        "1800",
+        "1830",
+        "2.0",
+        "2.4",
+        "20",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "24",
+        "253.1",
+        "300",
+        "396.4",
+        "4",
+        "40",
+        "50",
+        "91"
+      ],
+      "rules": {
+        "tier": [
+          11,
+          11
+        ],
+        "independence": [
+          11,
+          11
+        ],
+        "quote_on_page": [
+          5,
+          5
+        ],
+        "quote_not_claim": [
+          5,
+          5
+        ],
+        "unfetchable": 0,
+        "link_only": 25,
+        "bad_quotes": []
+      },
+      "invariant_errors": [],
+      "invariant_warnings": [],
+      "error": null,
+      "case": "gold_drivers_since_2022",
+      "repeat": 0,
+      "pdf": {
+        "report_exists": true,
+        "report_pages": 4,
+        "report_s": 57.8,
+        "trace_exists": true,
+        "trace_s": 58.0,
+        "pdf_error": ""
+      },
+      "run_id": "20261009-145156-4c43"
+    },
+    {
+      "coverage": 0.6666666666666666,
+      "covered": [
+        "real_yield_decoupling",
+        "central_bank_buying",
+        "dollar",
+        "etf_flows"
+      ],
+      "missed": [
+        "russia_sanctions",
+        "price_level"
+      ],
+      "citation_validity": 1.0,
+      "citations": {
+        "valid": 2,
+        "invalid": 0,
+        "unverifiable": 0,
+        "link_only": 11,
+        "uncited_claims": 0
+      },
+      "bad_citations": [],
+      "supported_without_valid_evidence": 0,
+      "claims": {
+        "supported": 7,
+        "contested": 0,
+        "unsupported": 30
+      },
+      "conflicts": 0,
+      "conflict_hit": 0.0,
+      "abstain_ok": null,
+      "quality": 0.5555555555555555,
+      "seconds": 58.6,
+      "over_budget_s": 0.0,
+      "tokens": 22844,
+      "cost_usd": 0.0183,
+      "sources": 7,
+      "domains": [
+        "auronum.co.uk",
+        "longtermtrends.com",
+        "moomoo.com",
+        "researchgate.net",
+        "thegoldobserver.com",
+        "thestreet.com",
+        "utah.gov"
+      ],
+      "numbers": [
+        "1000",
+        "17",
+        "2",
+        "2022",
+        "2023",
+        "50",
+        "91"
+      ],
+      "rules": {
+        "tier": [
+          7,
+          7
+        ],
+        "independence": [
+          7,
+          7
+        ],
+        "quote_on_page": [
+          2,
+          2
+        ],
+        "quote_not_claim": [
+          2,
+          2
+        ],
+        "unfetchable": 0,
+        "link_only": 11,
+        "bad_quotes": []
+      },
+      "invariant_errors": [],
+      "invariant_warnings": [],
+      "error": null,
+      "case": "gold_drivers_since_2022",
+      "repeat": 1,
+      "pdf": {
+        "report_exists": true,
+        "report_pages": 3,
+        "report_s": 58.6,
+        "trace_exists": true,
+        "trace_s": 58.7,
+        "pdf_error": ""
+      },
+      "run_id": "20261009-145159-2d8a"
+    },
+    {
+      "coverage": 1.0,
+      "covered": [
+        "cpi_1980",
+        "cpi_2022",
+        "ffr_1981",
+        "ffr_2023",
+        "chairs"
+      ],
+      "missed": [],
+      "citation_validity": 1.0,
+      "citations": {
+        "valid": 3,
+        "invalid": 0,
+        "unverifiable": 0,
+        "link_only": 18,
+        "uncited_claims": 0
+      },
+      "bad_citations": [],
+      "supported_without_valid_evidence": 0,
+      "claims": {
+        "supported": 11,
+        "contested": 0,
+        "unsupported": 13
+      },
+      "conflicts": 0,
+      "conflict_hit": null,
+      "abstain_ok": null,
+      "quality": 1.0,
+      "seconds": 54.2,
+      "over_budget_s": 0.0,
+      "tokens": 18370,
+      "cost_usd": 0.0147,
+      "sources": 11,
+      "domains": [
+        "CPI Chart",
+        "Wealth Management",
+        "bls.gov",
+        "dol.gov",
+        "gre.ac.uk",
+        "independent.org",
+        "nber.org",
+        "postkeynesian.net",
+        "researchgate.net",
+        "weforum.org"
+      ],
+      "numbers": [
+        "11",
+        "11.4",
+        "11.6",
+        "11.8",
+        "13.6",
+        "14.8",
+        "1980",
+        "1981",
+        "2.3",
+        "2.7",
+        "2022",
+        "2023",
+        "3.0",
+        "3.4",
+        "4.1",
+        "5",
+        "5.7",
+        "9.1"
+      ],
+      "rules": {
+        "tier": [
+          11,
+          11
+        ],
+        "independence": [
+          11,
+          11
+        ],
+        "quote_on_page": [
+          3,
+          3
+        ],
+        "quote_not_claim": [
+          3,
+          3
+        ],
+        "unfetchable": 0,
+        "link_only": 18,
+        "bad_quotes": []
+      },
+      "invariant_errors": [],
+      "invariant_warnings": [],
+      "error": null,
+      "case": "inflation_peaks_quant",
+      "repeat": 0,
+      "pdf": {
+        "report_exists": true,
+        "report_pages": 4,
+        "report_s": 54.2,
+        "trace_exists": true,
+        "trace_s": 54.2,
+        "pdf_error": ""
+      },
+      "run_id": "20261009-145208-63ff"
+    },
+    {
+      "coverage": 0.6,
+      "covered": [
+        "cpi_1980",
+        "cpi_2022",
+        "ffr_1981"
+      ],
+      "missed": [
+        "ffr_2023",
+        "chairs"
+      ],
+      "citation_validity": 1.0,
+      "citations": {
+        "valid": 1,
+        "invalid": 0,
+        "unverifiable": 0,
+        "link_only": 7,
+        "uncited_claims": 0
+      },
+      "bad_citations": [],
+      "supported_without_valid_evidence": 0,
+      "claims": {
+        "supported": 4,
+        "contested": 0,
+        "unsupported": 17
+      },
+      "conflicts": 0,
+      "conflict_hit": null,
+      "abstain_ok": null,
+      "quality": 0.8,
+      "seconds": 56.0,
+      "over_budget_s": 0.0,
+      "tokens": 18280,
+      "cost_usd": 0.0146,
+      "sources": 6,
+      "domains": [
+        "Connect Real Dots",
+        "bls.gov",
+        "dol.gov",
+        "nber.org",
+        "stlouisfed.org",
+        "thestreet.com"
+      ],
+      "numbers": [
+        "14.8",
+        "19.10",
+        "1980",
+        "1981",
+        "2022",
+        "9.1"
+      ],
+      "rules": {
+        "tier": [
+          4,
+          4
+        ],
+        "independence": [
+          4,
+          4
+        ],
+        "quote_on_page": [
+          1,
+          1
+        ],
+        "quote_not_claim": [
+          1,
+          1
+        ],
+        "unfetchable": 0,
+        "link_only": 7,
+        "bad_quotes": []
+      },
+      "invariant_errors": [],
+      "invariant_warnings": [],
+      "error": null,
+      "case": "inflation_peaks_quant",
+      "repeat": 2,
+      "pdf": {
+        "report_exists": true,
+        "report_pages": 3,
+        "report_s": 56.0,
+        "trace_exists": true,
+        "trace_s": 56.1,
+        "pdf_error": ""
+      },
+      "run_id": "20261009-145213-82a9"
+    },
+    {
+      "coverage": 1.0,
+      "covered": [
+        "cpi_1980",
+        "cpi_2022",
+        "ffr_1981",
+        "ffr_2023",
+        "chairs"
+      ],
+      "missed": [],
+      "citation_validity": 1.0,
+      "citations": {
+        "valid": 1,
+        "invalid": 0,
+        "unverifiable": 0,
+        "link_only": 19,
+        "uncited_claims": 0
+      },
+      "bad_citations": [],
+      "supported_without_valid_evidence": 0,
+      "claims": {
+        "supported": 10,
+        "contested": 1,
+        "unsupported": 9
+      },
+      "conflicts": 0,
+      "conflict_hit": null,
+      "abstain_ok": null,
+      "quality": 1.0,
+      "seconds": 60.8,
+      "over_budget_s": 0.0,
+      "tokens": 17468,
+      "cost_usd": 0.014,
+      "sources": 14,
+      "domains": [
+        "CPI Chart",
+        "bls.gov",
+        "dol.gov",
+        "economicshelp.org",
+        "federalreserve.gov",
+        "ineteconomics.org",
+        "investing.com",
+        "kansascityfed.org",
+        "nber.org",
+        "stlouisfed.org",
+        "tandfonline.com"
+      ],
+      "numbers": [
+        "11.4",
+        "13.6",
+        "14.8",
+        "19.10",
+        "1980",
+        "1981",
+        "1983",
+        "2",
+        "2.3",
+        "2022",
+        "22.0",
+        "3.4",
+        "5.25",
+        "5.50",
+        "5.7",
+        "9.1"
+      ],
+      "rules": {
+        "tier": [
+          10,
+          10
+        ],
+        "independence": [
+          10,
+          10
+        ],
+        "quote_on_page": [
+          1,
+          1
+        ],
+        "quote_not_claim": [
+          1,
+          1
+        ],
+        "unfetchable": 0,
+        "link_only": 19,
+        "bad_quotes": []
+      },
+      "invariant_errors": [],
+      "invariant_warnings": [],
+      "error": null,
+      "case": "inflation_peaks_quant",
+      "repeat": 1,
+      "pdf": {
+        "report_exists": true,
+        "report_pages": 3,
+        "report_s": 60.8,
+        "trace_exists": true,
+        "trace_s": 60.9,
+        "pdf_error": ""
+      },
+      "run_id": "20261009-145209-8f22"
+    },
+    {
+      "coverage": 0.8333333333333334,
+      "covered": [
+        "real_yield_decoupling",
+        "central_bank_buying",
+        "russia_sanctions",
+        "dollar",
+        "etf_flows"
+      ],
+      "missed": [
+        "price_level"
+      ],
+      "citation_validity": null,
+      "citations": {
+        "valid": 0,
+        "invalid": 0,
+        "unverifiable": 0,
+        "link_only": 12,
+        "uncited_claims": 0
+      },
+      "bad_citations": [],
+      "supported_without_valid_evidence": 0,
+      "claims": {
+        "supported": 8,
+        "contested": 1,
+        "unsupported": 27
+      },
+      "conflicts": 0,
+      "conflict_hit": 0.0,
+      "abstain_ok": null,
+      "quality": 0.4166666666666667,
+      "seconds": 67.9,
+      "over_budget_s": 0.0,
+      "tokens": 22890,
+      "cost_usd": 0.0183,
+      "sources": 9,
+      "domains": [
+        "federalreserve.gov",
+        "goldmansachs.com",
+        "imf.org",
+        "ingoldwetrust.report",
+        "investing.com",
+        "moomoo.com",
+        "stlouisfed.org",
+        "ubs.com"
+      ],
+      "numbers": [
+        ".28",
+        ".74",
+        ".80",
+        "1",
+        "1.57",
+        "1.87",
+        "10",
+        "1000",
+        "1037",
+        "106.63",
+        "1082",
+        "112.56",
+        "116.92",
+        "117.86",
+        "17",
+        "2",
+        "2.14",
+        "2.21",
+        "2022",
+        "2023",
+        "2024",
+        "3",
+        "300",
+        "4",
+        "50",
+        "7",
+        "90"
+      ],
+      "rules": {
+        "tier": [
+          8,
+          8
+        ],
+        "independence": [
+          8,
+          8
+        ],
+        "quote_on_page": [
+          0,
+          0
+        ],
+        "quote_not_claim": [
+          0,
+          0
+        ],
+        "unfetchable": 0,
+        "link_only": 12,
+        "bad_quotes": []
+      },
+      "invariant_errors": [],
+      "invariant_warnings": [],
+      "error": null,
+      "case": "gold_drivers_since_2022",
+      "repeat": 2,
+      "pdf": {
+        "report_exists": true,
+        "report_pages": 4,
+        "report_s": 67.9,
+        "trace_exists": true,
+        "trace_s": 68.0,
+        "pdf_error": ""
+      },
+      "run_id": "20261009-145202-e091"
+    },
+    {
+      "coverage": 0.6666666666666666,
+      "covered": [
+        "premise_challenged",
+        "zirp_2008"
+      ],
+      "missed": [
+        "liftoff_2015"
+      ],
+      "citation_validity": 1.0,
+      "citations": {
+        "valid": 5,
+        "invalid": 0,
+        "unverifiable": 0,
+        "link_only": 23,
+        "uncited_claims": 0
+      },
+      "bad_citations": [],
+      "supported_without_valid_evidence": 0,
+      "claims": {
+        "supported": 18,
+        "contested": 0,
+        "unsupported": 23
+      },
+      "conflicts": 0,
+      "conflict_hit": null,
+      "abstain_ok": null,
+      "quality": 0.8333333333333333,
+      "seconds": 56.3,
+      "over_budget_s": 0.0,
+      "tokens": 21540,
+      "cost_usd": 0.0172,
+      "sources": 21,
+      "domains": [
+        "Board of Governors of the Federal Reserve System",
+        "SoFi",
+        "bea.gov",
+        "bls.gov",
+        "brookings.edu",
+        "cato.org",
+        "federalreserve.gov",
+        "fedinprint.org",
+        "forecasts.org",
+        "frbsf.org",
+        "nber.org",
+        "newyorkfed.org",
+        "northwestern.edu",
+        "philadelphiafed.org",
+        "princeton.edu",
+        "richmondfed.org",
+        "wikipedia.org"
+      ],
+      "numbers": [
+        ".00",
+        ".25",
+        "10.0",
+        "15.3",
+        "16",
+        "19.10",
+        "1979",
+        "1981",
+        "2.00",
+        "2.1",
+        "2.7",
+        "20",
+        "2008",
+        "2009",
+        "2010",
+        "3.8",
+        "4",
+        "6",
+        "6.3",
+        "8.9",
+        "800",
+        "9.9"
+      ],
+      "rules": {
+        "tier": [
+          18,
+          18
+        ],
+        "independence": [
+          18,
+          18
+        ],
+        "quote_on_page": [
+          5,
+          5
+        ],
+        "quote_not_claim": [
+          5,
+          5
+        ],
+        "unfetchable": 0,
+        "link_only": 23,
+        "bad_quotes": []
+      },
+      "invariant_errors": [],
+      "invariant_warnings": [],
+      "error": null,
+      "case": "false_premise_fed",
+      "repeat": 0,
+      "pdf": {
+        "report_exists": true,
+        "report_pages": 5,
+        "report_s": 56.3,
+        "trace_exists": true,
+        "trace_s": 56.5,
+        "pdf_error": ""
+      },
+      "run_id": "20261009-145239-ad58"
+    },
+    {
+      "coverage": 0.6666666666666666,
+      "covered": [
+        "premise_challenged",
+        "zirp_2008"
+      ],
+      "missed": [
+        "liftoff_2015"
+      ],
+      "citation_validity": 1.0,
+      "citations": {
+        "valid": 10,
+        "invalid": 0,
+        "unverifiable": 0,
+        "link_only": 19,
+        "uncited_claims": 0
+      },
+      "bad_citations": [],
+      "supported_without_valid_evidence": 0,
+      "claims": {
+        "supported": 17,
+        "contested": 0,
+        "unsupported": 22
+      },
+      "conflicts": 0,
+      "conflict_hit": null,
+      "abstain_ok": null,
+      "quality": 0.8333333333333333,
+      "seconds": 59.2,
+      "over_budget_s": 0.0,
+      "tokens": 22101,
+      "cost_usd": 0.0177,
+      "sources": 17,
+      "domains": [
+        "Board of Governors of the Federal Reserve System",
+        "Business Insider",
+        "Diamond Hill, a First Eagle investments company",
+        "Hoover Institution",
+        "Princeton University, Department of Economics, Center for Economic Policy Studies.",
+        "The Reformed Broker",
+        "bls.gov",
+        "federalreservehistory.org",
+        "fedprimerate.com",
+        "forbes.com",
+        "nber.org",
+        "stlouisfed.org",
+        "the Guardian"
+      ],
+      "numbers": [
+        ".00",
+        ".07",
+        ".10",
+        ".12",
+        ".16",
+        ".18",
+        ".22",
+        ".25",
+        "1",
+        "1.00",
+        "1.725",
+        "1.75",
+        "10.0",
+        "14",
+        "16",
+        "1979",
+        "1980",
+        "2",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "29",
+        "3",
+        "5.0",
+        "50",
+        "6",
+        "600",
+        "9.4",
+        "9.9"
+      ],
+      "rules": {
+        "tier": [
+          17,
+          17
+        ],
+        "independence": [
+          17,
+          17
+        ],
+        "quote_on_page": [
+          9,
+          10
+        ],
+        "quote_not_claim": [
+          10,
+          10
+        ],
+        "unfetchable": 0,
+        "link_only": 19,
+        "bad_quotes": [
+          {
+            "claim": "c5",
+            "url": "https://www.businessinsider.com/huge-list-of-investors-and-economists-pen-open-letter-to-b",
+            "why": "quote not on the page"
+          }
+        ]
+      },
+      "invariant_errors": [],
+      "invariant_warnings": [],
+      "error": null,
+      "case": "false_premise_fed",
+      "repeat": 1,
+      "pdf": {
+        "report_exists": true,
+        "report_pages": 4,
+        "report_s": 59.2,
+        "trace_exists": true,
+        "trace_s": 59.3,
+        "pdf_error": ""
+      },
+      "run_id": "20261009-145247-5a4b"
+    },
+    {
+      "coverage": 0.6666666666666666,
+      "covered": [
+        "irr",
+        "margin",
+        "fee",
+        "flagged"
+      ],
+      "missed": [
+        "true_yield",
+        "fed_cut"
+      ],
+      "citation_validity": 1.0,
+      "citations": {
+        "valid": 12,
+        "invalid": 0,
+        "unverifiable": 0,
+        "link_only": 20,
+        "uncited_claims": 0
+      },
+      "bad_citations": [],
+      "supported_without_valid_evidence": 0,
+      "claims": {
+        "supported": 20,
+        "contested": 1,
+        "unsupported": 31
+      },
+      "conflicts": 0,
+      "conflict_hit": 0.0,
+      "abstain_ok": null,
+      "quality": 0.5555555555555555,
+      "seconds": 57.4,
+      "over_budget_s": 0.0,
+      "tokens": 24505,
+      "cost_usd": 0.0196,
+      "sources": 15,
+      "domains": [
+        "Avante Capital Partners",
+        "NEPC - Private Wealth",
+        "User-supplied document",
+        "bea.gov",
+        "bls.gov",
+        "cassinfo.com",
+        "federalreserve.gov",
+        "macromicro.me",
+        "newyorkfed.org",
+        "ycharts.com"
+      ],
+      "numbers": [
+        ".2",
+        "1.0",
+        "1.064",
+        "1.081",
+        "1.092",
+        "1.1",
+        "1.62",
+        "1.7",
+        "1.85",
+        "1.9",
+        "10",
+        "11",
+        "12",
+        "14.7",
+        "18",
+        "2",
+        "2.4",
+        "2.5",
+        "2.50",
+        "2.6",
+        "2.75",
+        "2.8",
+        "2.9",
+        "2024",
+        "2025",
+        "2026",
+        "23.4",
+        "27",
+        "3",
+        "3.0",
+        "3.1",
+        "3.4",
+        "30",
+        "314.540",
+        "314.796",
+        "315.301",
+        "4.4",
+        "4.9",
+        "412",
+        "5.2",
+        "8"
+      ],
+      "rules": {
+        "tier": [
+          20,
+          20
+        ],
+        "independence": [
+          12,
+          20
+        ],
+        "quote_on_page": [
+          12,
+          12
+        ],
+        "quote_not_claim": [
+          12,
+          12
+        ],
+        "unfetchable": 0,
+        "link_only": 20,
+        "bad_quotes": []
+      },
+      "invariant_errors": [],
+      "invariant_warnings": [],
+      "error": null,
+      "case": "pdf_helios_memo",
+      "repeat": 0,
+      "pdf": {
+        "report_exists": true,
+        "report_pages": 4,
+        "report_s": 57.4,
+        "trace_exists": true,
+        "trace_s": 57.5,
+        "pdf_error": ""
+      },
+      "run_id": "20261009-145259-5cfb"
+    },
+    {
+      "coverage": 0.5,
+      "covered": [
+        "abstains"
+      ],
+      "missed": [
+        "public_context"
+      ],
+      "citation_validity": 0.8333333333333334,
+      "citations": {
+        "valid": 5,
+        "invalid": 1,
+        "unverifiable": 0,
+        "link_only": 3,
+        "uncited_claims": 0
+      },
+      "bad_citations": [
+        {
+          "claim": "c43",
+          "url": "https://sacra.com/c/stripe/",
+          "why": "quote not found on page"
+        }
+      ],
+      "supported_without_valid_evidence": 0,
+      "claims": {
+        "supported": 4,
+        "contested": 0,
+        "unsupported": 29
+      },
+      "conflicts": 0,
+      "conflict_hit": null,
+      "abstain_ok": 1.0,
+      "quality": 0.7777777777777778,
+      "seconds": 47.3,
+      "over_budget_s": 0.0,
+      "tokens": 20922,
+      "cost_usd": 0.0167,
+      "sources": 8,
+      "domains": [
+        "Chargebacks911",
+        "fastcompany.com",
+        "gainsight.com",
+        "sacra.com",
+        "stripe.com",
+        "stripeassets.com",
+        "tanayj.com",
+        "untaylored.com"
+      ],
+      "numbers": [
+        "100",
+        "105",
+        "120",
+        "130",
+        "2021",
+        "2023",
+        "2024",
+        "500",
+        "70",
+        "90"
+      ],
+      "rules": {
+        "tier": [
+          4,
+          4
+        ],
+        "independence": [
+          4,
+          4
+        ],
+        "quote_on_page": [
+          5,
+          6
+        ],
+        "quote_not_claim": [
+          6,
+          6
+        ],
+        "unfetchable": 0,
+        "link_only": 3,
+        "bad_quotes": [
+          {
+            "claim": "c43",
+            "url": "https://sacra.com/c/stripe/",
+            "why": "quote not on the page"
+          }
+        ]
+      },
+      "invariant_errors": [],
+      "invariant_warnings": [],
+      "error": null,
+      "case": "unanswerable_private",
+      "repeat": 1,
+      "pdf": {
+        "report_exists": true,
+        "report_pages": 3,
+        "report_s": 47.3,
+        "trace_exists": true,
+        "trace_s": 47.4,
+        "pdf_error": ""
+      },
+      "run_id": "20261009-145310-4456"
+    },
+    {
+      "coverage": 0.5,
+      "covered": [
+        "abstains"
+      ],
+      "missed": [
+        "public_context"
+      ],
+      "citation_validity": 0.75,
+      "citations": {
+        "valid": 3,
+        "invalid": 1,
+        "unverifiable": 0,
+        "link_only": 0,
+        "uncited_claims": 0
+      },
+      "bad_citations": [
+        {
+          "claim": "c32",
+          "url": "https://sacra.com/c/stripe/",
+          "why": "quote not found on page"
+        }
+      ],
+      "supported_without_valid_evidence": 0,
+      "claims": {
+        "supported": 2,
+        "contested": 0,
+        "unsupported": 34
+      },
+      "conflicts": 0,
+      "conflict_hit": null,
+      "abstain_ok": 1.0,
+      "quality": 0.75,
+      "seconds": 49.1,
+      "over_budget_s": 0.0,
+      "tokens": 18796,
+      "cost_usd": 0.015,
+      "sources": 3,
+      "domains": [
+        "SaaStrAI",
+        "chargeflow.io",
+        "sacra.com"
+      ],
+      "numbers": [
+        "1",
+        "2025",
+        "2026",
+        "500"
+      ],
+      "rules": {
+        "tier": [
+          2,
+          2
+        ],
+        "independence": [
+          2,
+          2
+        ],
+        "quote_on_page": [
+          3,
+          4
+        ],
+        "quote_not_claim": [
+          4,
+          4
+        ],
+        "unfetchable": 0,
+        "link_only": 0,
+        "bad_quotes": [
+          {
+            "claim": "c32",
+            "url": "https://sacra.com/c/stripe/",
+            "why": "quote not on the page"
+          }
+        ]
+      },
+      "invariant_errors": [],
+      "invariant_warnings": [],
+      "error": null,
+      "case": "unanswerable_private",
+      "repeat": 0,
+      "pdf": {
+        "report_exists": true,
+        "report_pages": 3,
+        "report_s": 49.1,
+        "trace_exists": true,
+        "trace_s": 49.2,
+        "pdf_error": ""
+      },
+      "run_id": "20261009-145310-083b"
+    },
+    {
+      "coverage": 0.6666666666666666,
+      "covered": [
+        "premise_challenged",
+        "zirp_2008"
+      ],
+      "missed": [
+        "liftoff_2015"
+      ],
+      "citation_validity": 1.0,
+      "citations": {
+        "valid": 7,
+        "invalid": 0,
+        "unverifiable": 0,
+        "link_only": 16,
+        "uncited_claims": 0
+      },
+      "bad_citations": [],
+      "supported_without_valid_evidence": 0,
+      "claims": {
+        "supported": 12,
+        "contested": 0,
+        "unsupported": 25
+      },
+      "conflicts": 0,
+      "conflict_hit": null,
+      "abstain_ok": null,
+      "quality": 0.8333333333333333,
+      "seconds": 63.1,
+      "over_budget_s": 0.0,
+      "tokens": 21692,
+      "cost_usd": 0.0174,
+      "sources": 17,
+      "domains": [
+        "Bruegel | The Brussels-based economic think tank",
+        "CRS Reports",
+        "National Association of Letter Carriers AFL-CIO",
+        "aeaweb.org",
+        "berkeley.edu",
+        "econlib.org",
+        "europa.eu",
+        "federalreserve.gov",
+        "manhattan-institute.org",
+        "princeton.edu",
+        "purdue.edu",
+        "seekingalpha.com",
+        "stlouisfed.org",
+        "weforum.org"
+      ],
+      "numbers": [
+        ".00",
+        ".25",
+        "1",
+        "1.2",
+        "1.25",
+        "10.0",
+        "16",
+        "2",
+        "2008",
+        "2009",
+        "2010",
+        "300",
+        "4",
+        "4.5",
+        "5",
+        "5.0",
+        "6",
+        "6.0",
+        "9.4",
+        "9.8",
+        "900"
+      ],
+      "rules": {
+        "tier": [
+          12,
+          12
+        ],
+        "independence": [
+          12,
+          12
+        ],
+        "quote_on_page": [
+          7,
+          7
+        ],
+        "quote_not_claim": [
+          7,
+          7
+        ],
+        "unfetchable": 0,
+        "link_only": 16,
+        "bad_quotes": []
+      },
+      "invariant_errors": [],
+      "invariant_warnings": [],
+      "error": null,
+      "case": "false_premise_fed",
+      "repeat": 2,
+      "pdf": {
+        "report_exists": true,
+        "report_pages": 4,
+        "report_s": 63.1,
+        "trace_exists": true,
+        "trace_s": 63.2,
+        "pdf_error": ""
+      },
+      "run_id": "20261009-145256-ccf2"
+    },
+    {
+      "coverage": 0.6666666666666666,
+      "covered": [
+        "irr",
+        "margin",
+        "fee",
+        "flagged"
+      ],
+      "missed": [
+        "true_yield",
+        "fed_cut"
+      ],
+      "citation_validity": 1.0,
+      "citations": {
+        "valid": 5,
+        "invalid": 0,
+        "unverifiable": 0,
+        "link_only": 24,
+        "uncited_claims": 0
+      },
+      "bad_citations": [],
+      "supported_without_valid_evidence": 0,
+      "claims": {
+        "supported": 24,
+        "contested": 0,
+        "unsupported": 22
+      },
+      "conflicts": 0,
+      "conflict_hit": 0.0,
+      "abstain_ok": null,
+      "quality": 0.5555555555555555,
+      "seconds": 61.1,
+      "over_budget_s": 0.0,
+      "tokens": 23646,
+      "cost_usd": 0.0189,
+      "sources": 15,
+      "domains": [
+        "CleanBridge",
+        "GMK",
+        "User-supplied document",
+        "bea.gov",
+        "bls.gov",
+        "cassinfo.com",
+        "cima.ky",
+        "europa.eu",
+        "federalreserve.gov",
+        "ycharts.com"
+      ],
+      "numbers": [
+        ".3",
+        ".4",
+        ".7",
+        ".8",
+        ".9",
+        "1.0",
+        "1.1",
+        "1.62",
+        "1.7",
+        "1.85",
+        "1.9",
+        "10",
+        "11",
+        "12",
+        "14.7",
+        "18",
+        "19",
+        "2.1",
+        "2.2",
+        "2.4",
+        "2.5",
+        "2.8",
+        "2.9",
+        "2023",
+        "2024",
+        "2025",
+        "2026",
+        "23.4",
+        "25",
+        "3",
+        "3.1",
+        "3.3",
+        "3.4",
+        "3.50",
+        "30",
+        "4.0",
+        "4.4",
+        "4.9",
+        "412",
+        "5.2"
+      ],
+      "rules": {
+        "tier": [
+          24,
+          24
+        ],
+        "independence": [
+          15,
+          24
+        ],
+        "quote_on_page": [
+          5,
+          5
+        ],
+        "quote_not_claim": [
+          5,
+          5
+        ],
+        "unfetchable": 0,
+        "link_only": 24,
+        "bad_quotes": []
+      },
+      "invariant_errors": [],
+      "invariant_warnings": [],
+      "error": null,
+      "case": "pdf_helios_memo",
+      "repeat": 1,
+      "pdf": {
+        "report_exists": true,
+        "report_pages": 4,
+        "report_s": 61.1,
+        "trace_exists": true,
+        "trace_s": 61.2,
+        "pdf_error": ""
+      },
+      "run_id": "20261009-145302-fefb"
+    },
+    {
+      "coverage": 0.6666666666666666,
+      "covered": [
+        "irr",
+        "margin",
+        "fee",
+        "flagged"
+      ],
+      "missed": [
+        "true_yield",
+        "fed_cut"
+      ],
+      "citation_validity": null,
+      "citations": {
+        "valid": 0,
+        "invalid": 0,
+        "unverifiable": 0,
+        "link_only": 11,
+        "uncited_claims": 0
+      },
+      "bad_citations": [],
+      "supported_without_valid_evidence": 0,
+      "claims": {
+        "supported": 9,
+        "contested": 1,
+        "unsupported": 36
+      },
+      "conflicts": 0,
+      "conflict_hit": 0.0,
+      "abstain_ok": null,
+      "quality": 0.3333333333333333,
+      "seconds": 68.4,
+      "over_budget_s": 0.0,
+      "tokens": 22549,
+      "cost_usd": 0.018,
+      "sources": 3,
+      "domains": [
+        "User-supplied document",
+        "infogram.com",
+        "whitecase.com"
+      ],
+      "numbers": [
+        "1.62",
+        "1.85",
+        "10",
+        "11",
+        "14.7",
+        "2019",
+        "2020",
+        "2024",
+        "23.4",
+        "3",
+        "30",
+        "355",
+        "4.9",
+        "400",
+        "412"
+      ],
+      "rules": {
+        "tier": [
+          9,
+          9
+        ],
+        "independence": [
+          1,
+          9
+        ],
+        "quote_on_page": [
+          0,
+          0
+        ],
+        "quote_not_claim": [
+          0,
+          0
+        ],
+        "unfetchable": 0,
+        "link_only": 11,
+        "bad_quotes": []
+      },
+      "invariant_errors": [],
+      "invariant_warnings": [],
+      "error": null,
+      "case": "pdf_helios_memo",
+      "repeat": 2,
+      "pdf": {
+        "report_exists": true,
+        "report_pages": 3,
+        "report_s": 68.4,
+        "trace_exists": true,
+        "trace_s": 68.5,
+        "pdf_error": ""
+      },
+      "run_id": "20261009-145309-2876"
+    },
+    {
+      "coverage": 0.5,
+      "covered": [
+        "abstains"
+      ],
+      "missed": [
+        "public_context"
+      ],
+      "citation_validity": 1.0,
+      "citations": {
+        "valid": 7,
+        "invalid": 0,
+        "unverifiable": 0,
+        "link_only": 0,
+        "uncited_claims": 0
+      },
+      "bad_citations": [],
+      "supported_without_valid_evidence": 0,
+      "claims": {
+        "supported": 2,
+        "contested": 1,
+        "unsupported": 34
+      },
+      "conflicts": 0,
+      "conflict_hit": null,
+      "abstain_ok": 1.0,
+      "quality": 0.8333333333333334,
+      "seconds": 56.7,
+      "over_budget_s": 0.0,
+      "tokens": 19453,
+      "cost_usd": 0.0156,
+      "sources": 5,
+      "domains": [
+        "Acquiry",
+        "chargeflow.io",
+        "getlatka.com",
+        "sacra.com",
+        "tanayj.com"
+      ],
+      "numbers": [
+        "1.2",
+        "2023",
+        "2024",
+        "2025",
+        "3.82",
+        "5.1",
+        "6.8",
+        "70"
+      ],
+      "rules": {
+        "tier": [
+          2,
+          2
+        ],
+        "independence": [
+          2,
+          2
+        ],
+        "quote_on_page": [
+          7,
+          7
+        ],
+        "quote_not_claim": [
+          7,
+          7
+        ],
+        "unfetchable": 0,
+        "link_only": 0,
+        "bad_quotes": []
+      },
+      "invariant_errors": [],
+      "invariant_warnings": [],
+      "error": null,
+      "case": "unanswerable_private",
+      "repeat": 2,
+      "pdf": {
+        "report_exists": true,
+        "report_pages": 3,
+        "report_s": 56.7,
+        "trace_exists": true,
+        "trace_s": 56.8,
+        "pdf_error": ""
+      },
+      "run_id": "20261009-145336-ed63"
+    }
+  ],
+  "clarify": [
+    {
+      "id": "clarify_clear_no_ask",
+      "title": "Clarify: clear question, no ask",
+      "rule": "A clear question is never answered with a question.",
+      "runs": 3,
+      "passed": 3,
+      "first_failure": ""
+    },
+    {
+      "id": "clarify_ambiguous_asks_once",
+      "title": "Clarify: ambiguous question asks once",
+      "rule": "Two doubtful readings get exactly one one-line question with two options.",
+      "runs": 3,
+      "passed": 3,
+      "first_failure": ""
+    },
+    {
+      "id": "clarify_never_asks_twice",
+      "title": "Clarify: never asks twice",
+      "rule": "After the user answers, even vaguely, the system does not ask again.",
+      "runs": 3,
+      "passed": 3,
+      "first_failure": ""
+    },
+    {
+      "id": "clarify_noninteractive_default",
+      "title": "Clarify: non-interactive run proceeds",
+      "rule": "With no one to ask, the run goes on with the default and records the assumption.",
+      "runs": 3,
+      "passed": 3,
+      "first_failure": ""
+    },
+    {
+      "id": "clarify_empty_or_slow_answer",
+      "title": "Clarify: empty or slow answer",
+      "rule": "An empty answer, None, an error or silence takes the default and does not hang.",
+      "runs": 3,
+      "passed": 3,
+      "first_failure": ""
+    },
+    {
+      "id": "clarify_mild_ambiguity_assumes",
+      "title": "Clarify: mild ambiguity assumes",
+      "rule": "When one reading is the obvious one, assume it, say so and invite a correction.",
+      "runs": 3,
+      "passed": 3,
+      "first_failure": ""
+    }
+  ]
+}

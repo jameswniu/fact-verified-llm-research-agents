@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 740" width="100%" role="img" shape-rendering="crispEdges" aria-label="Recorded from one live run on 2026-10-09. Source rules: tier 308 of 308, independence 279 of 308, quote on page 95 of 100, quote not the claim 100 of 100. Coverage by case from 50 to 93 percent.">
+<rect width="1200" height="740" fill="#0e1117"/>
+<rect x="1" y="1" width="1198" height="738" fill="none" stroke="#2c333d" stroke-width="2"/>
+<text x="40" y="60" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#e6e9ee" font-weight="700">Source and quote rules</text>
+<text x="40" y="94" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">Passes out of items checked</text>
+<text x="40" y="150" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#e6e9ee">Not on a wiki or social site alone</text>
+<rect x="40" y="166" width="330" height="22" rx="0" fill="none" stroke="#2c333d" stroke-width="2"/>
+<rect x="40" y="166" width="330.0" height="22" rx="0" fill="#4f9a6f" stroke="#4f9a6f" stroke-width="2" fill-opacity="0.25"/>
+<text x="386" y="186" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#e6e9ee" font-weight="700">308/308</text>
+<text x="40" y="250" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#e6e9ee">Two independent domains, unofficial</text>
+<rect x="40" y="266" width="330" height="22" rx="0" fill="none" stroke="#2c333d" stroke-width="2"/>
+<rect x="40" y="266" width="298.9" height="22" rx="0" fill="#b5654a" stroke="#b5654a" stroke-width="2" fill-opacity="0.25"/>
+<text x="386" y="286" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#b5654a" font-weight="700">279/308</text>
+<text x="40" y="350" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#e6e9ee">The quote is on the cited page</text>
+<rect x="40" y="366" width="330" height="22" rx="0" fill="none" stroke="#2c333d" stroke-width="2"/>
+<rect x="40" y="366" width="313.5" height="22" rx="0" fill="#b5654a" stroke="#b5654a" stroke-width="2" fill-opacity="0.25"/>
+<text x="386" y="386" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#b5654a" font-weight="700">95/100</text>
+<text x="40" y="450" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#e6e9ee">The quote is not the claim text</text>
+<rect x="40" y="466" width="330" height="22" rx="0" fill="none" stroke="#2c333d" stroke-width="2"/>
+<rect x="40" y="466" width="330.0" height="22" rx="0" fill="#4f9a6f" stroke="#4f9a6f" stroke-width="2" fill-opacity="0.25"/>
+<text x="386" y="486" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#e6e9ee" font-weight="700">100/100</text>
+<line x1="580" y1="40" x2="580" y2="650" stroke="#2c333d" stroke-width="2"/>
+<text x="620" y="60" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#e6e9ee" font-weight="700">Coverage by case</text>
+<text x="620" y="94" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">Share of answer-key points stated</text>
+<text x="620" y="150" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#e6e9ee">1970s monetary failure</text>
+<rect x="620" y="164" width="260" height="22" rx="0" fill="none" stroke="#2c333d" stroke-width="2"/>
+<rect x="620" y="164" width="197.6" height="22" rx="0" fill="#79a890" stroke="#79a890" stroke-width="2" fill-opacity="0.25"/>
+<text x="896" y="182" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#e6e9ee" font-weight="700">76%</text>
+<text x="960" y="182" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#b5654a">Unstable</text>
+<text x="620" y="214" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#e6e9ee">SVB collapse</text>
+<rect x="620" y="228" width="260" height="22" rx="0" fill="none" stroke="#2c333d" stroke-width="2"/>
+<rect x="620" y="228" width="231.4" height="22" rx="0" fill="#79a890" stroke="#79a890" stroke-width="2" fill-opacity="0.25"/>
+<text x="896" y="246" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#e6e9ee" font-weight="700">89%</text>
+<text x="960" y="246" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">Stable</text>
+<text x="620" y="278" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#e6e9ee">Yield curve inversion</text>
+<rect x="620" y="292" width="260" height="22" rx="0" fill="none" stroke="#2c333d" stroke-width="2"/>
+<rect x="620" y="292" width="241.8" height="22" rx="0" fill="#79a890" stroke="#79a890" stroke-width="2" fill-opacity="0.25"/>
+<text x="896" y="310" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#e6e9ee" font-weight="700">93%</text>
+<text x="960" y="310" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">Stable</text>
+<text x="620" y="342" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#e6e9ee">Gold price drivers</text>
+<rect x="620" y="356" width="260" height="22" rx="0" fill="none" stroke="#2c333d" stroke-width="2"/>
+<rect x="620" y="356" width="187.2" height="22" rx="0" fill="#79a890" stroke="#79a890" stroke-width="2" fill-opacity="0.25"/>
+<text x="896" y="374" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#e6e9ee" font-weight="700">72%</text>
+<text x="960" y="374" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">Mostly stable</text>
+<text x="620" y="406" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#e6e9ee">1980 vs 2022 inflation peaks</text>
+<rect x="620" y="420" width="260" height="22" rx="0" fill="none" stroke="#2c333d" stroke-width="2"/>
+<rect x="620" y="420" width="226.2" height="22" rx="0" fill="#79a890" stroke="#79a890" stroke-width="2" fill-opacity="0.25"/>
+<text x="896" y="438" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#e6e9ee" font-weight="700">87%</text>
+<text x="960" y="438" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">Mostly stable</text>
+<text x="620" y="470" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#e6e9ee">False premise</text>
+<rect x="620" y="484" width="260" height="22" rx="0" fill="none" stroke="#2c333d" stroke-width="2"/>
+<rect x="620" y="484" width="174.2" height="22" rx="0" fill="#79a890" stroke="#79a890" stroke-width="2" fill-opacity="0.25"/>
+<text x="896" y="502" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#e6e9ee" font-weight="700">67%</text>
+<text x="960" y="502" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">Stable</text>
+<text x="620" y="534" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#e6e9ee">PDF with a planted error</text>
+<rect x="620" y="548" width="260" height="22" rx="0" fill="none" stroke="#2c333d" stroke-width="2"/>
+<rect x="620" y="548" width="174.2" height="22" rx="0" fill="#79a890" stroke="#79a890" stroke-width="2" fill-opacity="0.25"/>
+<text x="896" y="566" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#e6e9ee" font-weight="700">67%</text>
+<text x="960" y="566" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">Stable</text>
+<text x="620" y="598" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#e6e9ee">Unanswerable private data</text>
+<rect x="620" y="612" width="260" height="22" rx="0" fill="none" stroke="#2c333d" stroke-width="2"/>
+<rect x="620" y="612" width="130.0" height="22" rx="0" fill="#79a890" stroke="#79a890" stroke-width="2" fill-opacity="0.25"/>
+<text x="896" y="630" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#e6e9ee" font-weight="700">50%</text>
+<text x="960" y="630" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">Stable</text>
+<text x="40" y="684" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#e6e9ee">All cases: coverage 75%, conflict found 33%.</text>
+<text x="40" y="718" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">Recorded from one live run on 2026-10-09, not rerun.</text>
+</svg>

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" width="100%" role="img" shape-rendering="crispEdges" aria-label="Pipeline of one run: question, clarity check, plan with 6 lenses, parallel research 5 at a time, ledger, up to 3 follow-up rounds that loop back to research, verifier, writer, then report.pdf and trace.pdf.">
+<rect width="1200" height="760" fill="#0e1117"/>
+<rect x="1" y="1" width="1198" height="758" fill="none" stroke="#2c333d" stroke-width="2"/>
+<rect x="0" y="0" width="8" height="760" rx="0" fill="#79a890"/>
+<text x="40" y="56" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e" letter-spacing="2">HOW ONE RUN WORKS</text>
+<text x="40" y="112" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="44" fill="#e6e9ee" font-weight="700">Question in, two PDFs out</text>
+<text x="40" y="156" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#8b949e">Follow-up rounds loop back until the budget or new evidence runs out.</text>
+<rect x="40" y="190" width="250" height="130" rx="0" fill="#171c24" stroke="#2c333d" stroke-width="2"/>
+<text x="56" y="230" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#e6e9ee" font-weight="700">Question</text>
+<text x="56" y="268" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">Plain text,</text>
+<text x="56" y="298" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">optional PDF</text>
+<line x1="290" y1="255" x2="312" y2="255" stroke="#2c333d" stroke-width="2"/>
+<polygon points="330,255 312,246 312,264" fill="#8b949e"/>
+<rect x="330" y="190" width="250" height="130" rx="0" fill="#171c24" stroke="#2c333d" stroke-width="2"/>
+<text x="346" y="230" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#e6e9ee" font-weight="700">Clarity check</text>
+<text x="346" y="268" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">Asks only when</text>
+<text x="346" y="298" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">it is unclear</text>
+<line x1="580" y1="255" x2="602" y2="255" stroke="#2c333d" stroke-width="2"/>
+<polygon points="620,255 602,246 602,264" fill="#8b949e"/>
+<rect x="620" y="190" width="250" height="130" rx="0" fill="#171c24" stroke="#79a890" stroke-width="3"/>
+<text x="636" y="230" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#e6e9ee" font-weight="700">Plan</text>
+<text x="636" y="268" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">6 lenses,</text>
+<text x="636" y="298" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">sub-questions</text>
+<line x1="870" y1="255" x2="892" y2="255" stroke="#2c333d" stroke-width="2"/>
+<polygon points="910,255 892,246 892,264" fill="#8b949e"/>
+<rect x="910" y="190" width="250" height="130" rx="0" fill="#171c24" stroke="#79a890" stroke-width="3"/>
+<text x="926" y="230" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#e6e9ee" font-weight="700">Research</text>
+<text x="926" y="268" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">5 at a time,</text>
+<text x="926" y="298" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">Gemini search</text>
+<rect x="910" y="390" width="250" height="130" rx="0" fill="#171c24" stroke="#2c333d" stroke-width="2"/>
+<text x="926" y="430" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#e6e9ee" font-weight="700">Ledger</text>
+<text x="926" y="468" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">Merges claims,</text>
+<text x="926" y="498" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">flags conflicts</text>
+<line x1="910" y1="455" x2="888" y2="455" stroke="#2c333d" stroke-width="2"/>
+<polygon points="870,455 888,446 888,464" fill="#8b949e"/>
+<rect x="620" y="390" width="250" height="130" rx="0" fill="#171c24" stroke="#79a890" stroke-width="3"/>
+<text x="636" y="430" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#e6e9ee" font-weight="700">Follow-up</text>
+<text x="636" y="468" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">Up to 3 rounds,</text>
+<text x="636" y="498" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">chases gaps</text>
+<line x1="620" y1="455" x2="598" y2="455" stroke="#2c333d" stroke-width="2"/>
+<polygon points="580,455 598,446 598,464" fill="#8b949e"/>
+<rect x="330" y="390" width="250" height="130" rx="0" fill="#171c24" stroke="#79a890" stroke-width="3"/>
+<text x="346" y="430" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#e6e9ee" font-weight="700">Verifier</text>
+<text x="346" y="468" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">Source rules and</text>
+<text x="346" y="498" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">a quote check</text>
+<line x1="330" y1="455" x2="308" y2="455" stroke="#2c333d" stroke-width="2"/>
+<polygon points="290,455 308,446 308,464" fill="#8b949e"/>
+<rect x="40" y="390" width="250" height="130" rx="0" fill="#171c24" stroke="#2c333d" stroke-width="2"/>
+<text x="56" y="430" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#e6e9ee" font-weight="700">Writer</text>
+<text x="56" y="468" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">Cited answer,</text>
+<text x="56" y="498" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">passed claims</text>
+<line x1="1035" y1="320" x2="1035" y2="372" stroke="#2c333d" stroke-width="2"/>
+<polygon points="1035,390 1026,372 1044,372" fill="#8b949e"/>
+<line x1="745" y1="390" x2="745" y2="355" stroke="#79a890" stroke-width="2" stroke-dasharray="8 6"/>
+<line x1="745" y1="355" x2="970" y2="355" stroke="#79a890" stroke-width="2" stroke-dasharray="8 6"/>
+<line x1="970" y1="355" x2="970" y2="338" stroke="#79a890" stroke-width="2" stroke-dasharray="8 6"/>
+<polygon points="970,320 961,338 979,338" fill="#79a890"/>
+<text x="761" y="343" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="23" fill="#79a890">new leads, gaps</text>
+<line x1="165" y1="520" x2="165" y2="572" stroke="#2c333d" stroke-width="2"/>
+<polygon points="165,590 156,572 174,572" fill="#4f9a6f"/>
+<rect x="40" y="590" width="250" height="70" rx="0" fill="#171c24" stroke="#4f9a6f" stroke-width="2"/>
+<text x="165" y="634" font-family="SF Mono, Menlo, Consolas, monospace" font-size="24" fill="#e6e9ee" text-anchor="middle">report.pdf</text>
+<rect x="330" y="590" width="250" height="70" rx="0" fill="#171c24" stroke="#4f9a6f" stroke-width="2"/>
+<text x="455" y="634" font-family="SF Mono, Menlo, Consolas, monospace" font-size="24" fill="#e6e9ee" text-anchor="middle">trace.pdf</text>
+<line x1="290" y1="625" x2="312" y2="625" stroke="#4f9a6f" stroke-width="2"/>
+<polygon points="330,625 312,616 312,634" fill="#4f9a6f"/>
+<text x="40" y="726" font-family="SF Mono, Menlo, Consolas, monospace" font-size="23" fill="#8b949e">python3 tools/render_map.py --check</text>
+</svg>

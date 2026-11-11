@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+# Live debug trail. Follows every new run's events.jsonl (the one-line-per-event log of a run, under runs/<run id>/) in readable form. Opened by ./research-agent in a second window.
+cd "$(dirname "$0")" || exit 1
+PY=python3; [ -x .venv/bin/python ] && PY=.venv/bin/python
+start=$(date +%s); seen=""
+echo "Debug trail. Waiting for a question in the other window..."
+while true; do
+  d=$(ls -t runs 2>/dev/null | grep -E '^[0-9]{8}-' | head -1)
+  if [ -n "$d" ] && [ "$d" != "$seen" ] && { [ "$(python3 -c "import os,sys;print(int(os.stat(sys.argv[1]).st_ctime))" "runs/$d")" -ge "$start" ] || [ "$(( $(date +%s) - $(python3 -c "import os,sys;print(int(os.stat(sys.argv[1]).st_mtime))" "runs/$d/events.jsonl" 2>/dev/null || echo 0) ))" -lt 90 ]; }; then
+    seen=$d; echo; echo "=== run $d ==="; "$PY" -m research logs "$d" --follow
+  fi
+  sleep 1
+done
